@@ -1,0 +1,8 @@
+PRICE = '190.00'
+ACCOUNTT_ID = ''
+SECRET_KEY = ''
+SHOP_ID = '506751'
+TOKEN = "8073288121:AAGWUBYiP4EME04PoFUhTKm-U1hdjWgWTLA"
+YOOKASSA_API_URL = 'https://api.yookassa.ru/v3/payments'
+DB_URL = "postgresql://tester:1234@109.237.96.177:5432/tester"
+ADMIN_IDS = [1030970872, 699469085]

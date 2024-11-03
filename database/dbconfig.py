@@ -1,0 +1,5 @@
+HOST = "109.237.96.177"
+PORT = "5432"
+DATABASE = "tester"
+USER = "tester"
+SECRET = "1234"
